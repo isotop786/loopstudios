@@ -21,6 +21,7 @@ const Hamburger = () => {
         <a href="#" className='hover:text-pink-500'>Careers</a>
         <a href="#" className='hover:text-pink-500'>Products</a>
         <a href="#" className='hover:text-pink-500'>Events</a>
+        <a href="#" className='hover:text-pink-500'>Contact</a>
     </div>
   </div>
   )
